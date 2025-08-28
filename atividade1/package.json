@@ -1,0 +1,23 @@
+{
+<<<<<<< HEAD
+  "name": "atv1",
+=======
+  "name": "softex",
+>>>>>>> bdd944c06901a1f54a3b2ca84400c6bd9419a602
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+<<<<<<< HEAD
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+=======
+  "license": "ISC"
+>>>>>>> bdd944c06901a1f54a3b2ca84400c6bd9419a602
+}
